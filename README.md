@@ -1,4 +1,4 @@
-# IT Tools Collection ⛰️
+# IT Tools Collection
 
 Tools collection for product managers and UI/UX designers.
 
