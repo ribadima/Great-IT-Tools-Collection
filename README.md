@@ -1,5 +1,10 @@
 # IT Tools Collection
 
+<p align="center">
+    	<img src="cover.png" alt="Awesome-Design-Tools"/>
+</p>
+
+
 Tools collection for product managers and UI/UX designers. Subscribe to our [Telegram channel](https://tglink.me/lostdesign).
 
 ## Navigation
