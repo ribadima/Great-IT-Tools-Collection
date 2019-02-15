@@ -1,4 +1,4 @@
-# IT Tools Collection
+# Great IT Tools Collection
 
 ![Cover](cover.png)
 
