@@ -5,9 +5,11 @@
 </p>
 
 
-Tools collection for product managers and UI/UX designers.
+Tools collection for product managers and designers.
 
-Subscribe to our [Telegram channel](https://tglink.me/lostdesign).
+* Subscribe to our [Telegram Channel](https://tglink.me/lostdesign).
+* Just send a Pull Request for adding new tools
+
 
 ## Navigation
 
