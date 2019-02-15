@@ -1,15 +1,11 @@
 # IT Tools Collection
 
-<p align="center">
-    	<img src="cover.png" alt="Awesome-Design-Tools"/>
-</p>
-
+![Cover](cover.png)
 
 Tools collection for product managers and designers.
 
-* Subscribe to our [Telegram Channel](https://tglink.me/lostdesign).
 * Just send a Pull Request for adding new tools
-
+* Subscribe to our [Telegram Channel](https://tglink.me/lostdesign)
 
 ## Navigation
 
