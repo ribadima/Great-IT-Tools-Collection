@@ -4,7 +4,7 @@
 
 Great collection of tools for product managers and designers.
 
-* Just send a Pull Request for adding new tools
+* Just send a Pull Request for adding new tool
 * Subscribe to our [Telegram Channel](https://tglink.me/lostdesign)
 
 ## Navigation
@@ -28,4 +28,3 @@ cross-functional team collaboration.
 ### Design System Managment
 
 * [Specify](https://specifyapp.com/) · All your design primitives, component states and platforms in one place.
-
