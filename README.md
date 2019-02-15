@@ -6,8 +6,10 @@ Don't miss an update and subscribe to our Telegram channel — [Lost Design](htt
 
 ## Menu
 
-* [Boards](#boards)
+* [Collaboration Work](#collaboration-work)
 
-### Boards
+### Collaboration Work
 
-* [Witeboard](https://www.witeboard.com/) — real-time whiteboard for collaboration work.
+* [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
+* [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for
+cross-functional team collaboration.
