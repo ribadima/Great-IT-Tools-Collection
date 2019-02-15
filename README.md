@@ -1,5 +1,7 @@
 # IT Tools Collection
+
 Tools collection for product managers and UI/UX designers.
+Subscribe to our Telegram channel — https://tglink.me/lostdesign.
 
 ## Menu
 
