@@ -16,7 +16,7 @@ Tools collection for product managers and UI/UX designers. Subscribe to our [Tel
 * [RealtimeBoard](https://www.realtimeboard.com/) · Whiteboarding platform for
 cross-functional team collaboration.
 
-### Mockups Tools
+### Mockup Tools
 * [Rotato](https://rotato.xyz/) · Animated 3D mockups for your app designs.
 
 ### Design System Managment
