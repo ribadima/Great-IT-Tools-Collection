@@ -2,7 +2,7 @@
 
 ![Cover](cover.png)
 
-🙌 Great collection of tools for product managers and designers.
+Great collection of tools for product managers and designers.
 
 * Just send a Pull Request for adding new tool
 * Subscribe to our [Telegram Channel](https://tglink.me/lostdesign)
