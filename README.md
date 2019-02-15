@@ -12,13 +12,13 @@ Tools collection for product managers and UI/UX designers. Subscribe to our [Tel
 
 ### Collaboration Work
 
-* [Witeboard](https://www.witeboard.com/) · Simple real-time whiteboard for collaboration work
+* [Witeboard](https://www.witeboard.com/) · Simple real-time whiteboard for collaboration work.
 * [RealtimeBoard](https://www.realtimeboard.com/) · Whiteboarding platform for
-cross-functional team collaboration
+cross-functional team collaboration.
 
 ### Mockups Tools
-* [Rotato](https://rotato.xyz/) · Animated 3D mockups for your app designs
+* [Rotato](https://rotato.xyz/) · Animated 3D mockups for your app designs.
 
 ### Design System Managment
-* [Specify](https://specifyapp.com/) · All your design primitives, component states and platforms in one place
+* [Specify](https://specifyapp.com/) · All your design primitives, component states and platforms in one place.
 
